@@ -22,12 +22,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Laravel\\Installer\\Console\\": "src/"
+            "Codepotato\\Installer\\Console\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Laravel\\Installer\\Console\\Tests\\": "tests/"
+            "Codepotato\\Installer\\Console\\Tests\\": "tests/"
         }
     },
     "extra": {

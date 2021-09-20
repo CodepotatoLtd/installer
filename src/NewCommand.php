@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\Installer\Console;
+namespace Codepotato\Installer\Console;
 
 use RuntimeException;
 use Symfony\Component\Console\Command\Command;
